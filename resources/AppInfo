@@ -1,0 +1,5 @@
+APP_TITLE = Adfly Decrypter 3DS
+APP_DESCRIPTION = 3DS homebrew for Decrypt Adf.ly url.
+APP_AUTHOR = Xex
+APP_PRODUCT_CODE = ADFL-CODE
+APP_UNIQUE_ID = 0x1929
